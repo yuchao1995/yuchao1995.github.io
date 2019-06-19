@@ -2,9 +2,11 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Welcome to my website i.e. my attempt at being tech-savvy, fun, professional and _everything positive_. Take a look around! I will be updating both academic and non-academic work/things that just interest me here. Thanks! 
 
-[Link to another page](./another-page.html).
+[Research](./research.html).
+[Recreation](./recreation.html).
+[Resume](./resume.pdf).
 
 There should be whitespace between paragraphs.
 
