@@ -4,6 +4,12 @@ layout: default
 
 ## Welcome to another page
 
-_yay_
+[back](./)
+
+*Cognitive Science* 
+
+*Biophysics* 
+
+*Peace Studies*
 
 [back](./)
