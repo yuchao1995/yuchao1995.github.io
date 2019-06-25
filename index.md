@@ -2,17 +2,17 @@
 layout: default
 ---
 
-<p><big>
-**Welcome to my website! **</big>
-<br>i.e. my attempt at being tech-savvy, fun, yet professional.
+<p><big><b>
+Welcome to my website<sup>[1]</sup>! </b></big>
+<br><small><sup>[1]</sup> my attempt at being tech-savvy, fun, yet professional.</small>
 </p>  
 <br>
-<br>
-<p><big>         
-Take a look around! I will be updating both academic and non-academic work/things that just interest me. Thanks!</big>
+<p><big><b>         
+I will be updating both academic and non-academic work/things that just interest me. Thanks!</b></big>
 </p>
 <br>
 <br>
+<big>
 [Research](./research.html).
 [Recreation](./recreation.html).
-<a href="./assets/pdfs/resume.pdf" download>Resume</a>.
+<a href="./assets/pdfs/resume.pdf" download>Resume</a>.</big>
