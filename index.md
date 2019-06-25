@@ -8,4 +8,4 @@ Take a look around! I will be updating both academic and non-academic work/thing
 [Research](./research.html).
 [Recreation](./recreation.html).
 [Resume](./assets/pdfs/resume.pdf).
-
+<a href="./assets/pdfs/resume.pdf" download>Click to Download</a>
