@@ -4,13 +4,11 @@ layout: default
 
 <p><big><b>
 Welcome to my website<sup>[1]</sup>! </b></big>
-<br><small><sup>[1]</sup> my attempt at being tech-savvy, fun, yet professional.</small>
+<br><small><sup>[1]</sup> my attempt at being tech-savvy, fun, and professional.</small>
 </p>  
-<br>
-<p><big><b>         
-I will be updating both academic and non-academic work/things that just interest me. Thanks!</b></big>
+<p><big>         
+I will be updating both academic and non-academic work/things that just interest me. Thanks!</big>
 </p>
-<br>
 <br>
 <big>
 [Research](./research.html).
