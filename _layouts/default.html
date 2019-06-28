@@ -10,6 +10,16 @@
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
+  <style>
+  img.icon {
+    width:24px;
+    height:24px;
+    border:0;
+  }
+  img:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+  }
+  </style>
   </head>
   <body>
     <div class="wrapper">
@@ -23,12 +33,14 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_user_page %}
-        <p class="view"><a href="https://www.linkedin.com/in/yuchao-wang-b9977a116" target="_blank"> <img src="assets/img/linkedin.svg" alt="Linkedin link" style="width:24px;height:24px;border:0;"/></a>
-        <a href="https://www.researchgate.net/profile/Yuchao_Wang7" target="_blank"> <img src="assets/img/researchgate.png" alt="Researchgate link" style="width:24px;height:24px;border:0;"/></a>
-        <a href="https://github.com/yuchao1995" target="_blank"> <img src="assets/img/github.svg" alt="Github link" style="width:24px;height:24px;border:0;"/></a>
-        <a href="mailto:ywang24@haverford.edu"> <img src="assets/img/email.png" alt="Email" style="width:24px;height:24px;border:0;"/></a></p>
-        <p><small>Fun fact: There haven't been 24 people with initials of ywang at Haverford - they seem to randomly pick the number after there appears the first instance of a clash. I think.
-        </small></p>
+        <p class="view"><a href="https://www.linkedin.com/in/yuchao-wang-b9977a116" target="_blank"> <img class="icon" src="assets/img/linkedin.svg" alt="Linkedin link"/></a>
+        <a href="https://www.researchgate.net/profile/Yuchao_Wang7" target="_blank"> <img class="icon" src="assets/img/researchgate.png" alt="Researchgate link"/></a>
+        <a href="https://github.com/yuchao1995" target="_blank"> <img class="icon" src="assets/img/github.svg" alt="Github link"/></a>
+        <a href="mailto:ywang24@haverford.edu"> <img class="icon" src="assets/img/email.png" alt="Email"/></a></p>
+        <p><big>
+        <a href="./research.html" >Research</a>.
+        <a href="./recreation.html" >Recreation</a>.
+        <a href="./assets/pdfs/Resume_YuchaoWang.pdf" download>Resume</a>.</big></p>
         {% endif %}
 
         {% if site.show_downloads %}

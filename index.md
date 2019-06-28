@@ -10,8 +10,3 @@ Welcome to my website<sup>[1]</sup>! </b></big>
 I will be updating both academic and non-academic work/things that just interest me. Thanks!</big>
 </p>
 <br>
-<big>
-[Research](./research.html).
-[Recreation](./recreation.html).
-<a href="./assets/pdfs/Resume_YuchaoWang.pdf" download>Resume</a>.</big>
-
