@@ -13,5 +13,5 @@ I will be updating both academic and non-academic work/things that just interest
 <big>
 [Research](./research.html).
 [Recreation](./recreation.html).
-<a href="./assets/pdfs/resume.pdf" download>Resume</a>.</big>
+<a href="./assets/pdfs/Resume_YuchaoWang.pdf" download>Resume</a>.</big>
 
