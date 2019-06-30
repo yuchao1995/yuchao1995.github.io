@@ -55,19 +55,4 @@ Capriccio Diabolico: [Kazuhito Yamashita](https://youtu.be/PQX4EKXks5g)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 [back](./)
