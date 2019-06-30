@@ -7,6 +7,9 @@ layout: default
 [back](./)
 
 <h3>Books</h3>
+- Brown, D. (2017). Origin. Anchor.
+- Wittmann, M. (2016). Felt Time. MIT Press.
+- Yalom, I. D. (2011). When Nietzsche Wept. Harper Perennial Modern Classics.
 
 
 <h3>Music</h3>  
