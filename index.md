@@ -2,11 +2,11 @@
 layout: default
 ---
 
-<p><big><b>
-Welcome to my website<sup>[1]</sup>! </b></big>
-<br><small><sup>[1]</sup> my attempt at being tech-savvy, fun, and professional.</small>
-</p>  
-<p><big>         
-I will be updating both academic and non-academic work/things that just interest me. Thanks!</big>
+## Welcome to my website<sup>1</sup>!
+<small><sup>1</sup> my attempt at being tech-savvy, fun, and professional.</small>
+
+<p>         
+I will be updating both academic and non-academic work/things that just interest me here. See the links for more. Thanks!
 </p>
-<br>
+
+**Short bio:** Yuchao Wang is pursuing his B.A. in cognitive science at Haverford College. He currently conducts thesis research in [ChatLab](http://ccn.upenn.edu/chatterjee/) on how the brain responds to literariness in stories. Before this exciting journey in neuroaesthetics, he has researched on the biophysics of peacock feathers as perceived through avian and mammalian vision, which has evolutionary implications. In his free time, he enjoys Bach on Youtube and puppies on Instagram.
