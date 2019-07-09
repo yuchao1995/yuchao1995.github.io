@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Welcome to my website<sup>1</sup>!
-<small><sup>1</sup> my attempt at being tech-savvy, fun, and professional.</small>
+## Hi!
+
 
 <p>         
 I will be updating both academic and non-academic work/things that just interest me here. See the links for more. Thanks!
