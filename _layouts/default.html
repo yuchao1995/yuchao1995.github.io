@@ -33,6 +33,11 @@
           <img class="noHover" src="{{ site.logo | relative_url }}" alt="Profile picture" style="width:150px;height:150px;border:0;" />
         {% endif %}
 
+        {% assign favicon = page.favicon | default: site.favicon %}
+        {% if favicon %}
+          <link rel="shortcut icon" href="{{ page.favicon | absolute_url }}">
+        {% endif %}
+
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_user_page %}
