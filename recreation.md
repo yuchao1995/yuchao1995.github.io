@@ -7,9 +7,20 @@ layout: default
 [back](./)
 
 <h3>Books</h3>
-- Brown, D. (2017). Origin. Anchor.
-- Wittmann, M. (2016). Felt Time. MIT Press.
-- Yalom, I. D. (2011). When Nietzsche Wept. Harper Perennial Modern Classics.
+- Narratives
+  - When Nietzsche Wept, Irvin Yalom
+  - The Earth's Past Trilogy, Liu Cixin
+  - Origin, Dan Brown
+  - The Theban Plays, Sophocles
+- Ideas
+  - The Language Hoax, John McWhorter
+  - The Language Instinct, Steven Pinker (i know, still, great book in itself.)
+  - Felt Time, Marc Wittman
+  - The Neuroscience of Emotion, David Anderson and Ralph Adolphs
+  - The Conscious Mind, Zoltan Torey
+  - Existential Psychotherapy, Irvin Yalom
+  - The Resonance of Unseen Things, Susan Lepselter
+
 
 
 <h3>Music</h3>  
@@ -41,6 +52,7 @@ layout: default
 
   - 梁祝(The Butterfly Lovers): [Ji-Won Song & Beilin Han](https://youtu.be/ysrHJMxgisA), [Xuefei Yang](https://youtu.be/Ai2Ci3q7wHo)
   - 渔舟唱晚(Fisherman's Song at Eventide): [Xuefei Yang](https://youtu.be/sqINGJCi390)
+  - Sibelius Violin Concerto: [Ji-Won Song & Carlos Avila](https://youtu.be/iTZjuk7-3gs)
   - Carlo Domeniconi, Koyunbaba: [Pirai Vaca](https://youtu.be/ERLdUSQOby8)
   - Chopin, Ballade No. 1 in G minor, Op. 23: [Krystian Zimerman](https://youtu.be/Ce8p0VcTbuA)
   - Handel - Halvorsen, Passacaglia: [Hauser & Lana Trotovsek](https://youtu.be/EOTykAFBWS4)
