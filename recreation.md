@@ -10,7 +10,7 @@ layout: default
 - Narratives
   - When Nietzsche Wept, Irvin Yalom
   - The Earth's Past Trilogy, Liu Cixin
-  - Origin, Dan Brown
+  - Crime and Punishment, Fyodor Dostoevsky 
   - The Theban Plays, Sophocles
 - Ideas
   - The Language Hoax, John McWhorter
