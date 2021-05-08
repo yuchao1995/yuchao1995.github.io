@@ -7,7 +7,7 @@ layout: default
 [back](./)
 
 <h3>Neuroaesthetics</h3>
-- **Wang, Y.**, Hartung, F., Mak, M., Willems, R., Chatterjee, A. (2020). Neural Correlates of Aesthetic Engagement with Literature. Annual Meeting of the Cognitive Neuroscience Society, Online. (Selected for [Data Blitz](https://youtu.be/cDaP8c-LHDc){:target="_blank"})
+- Hartung, F.<sup>*</sup>, **Wang, Y.<sup>*</sup>**, Marloes, M., Willems, R., Chatterjee, A. Out of the ordinary: Neural correlates of literary form and emotional content in aesthetic engagement with literature. <sup>*</sup>co-first author. [Preprint](https://doi.org/10.31234/osf.io/tuwmz){:target="_blank"}. (Selected for CNS2020 [Data Blitz](https://youtu.be/cDaP8c-LHDc){:target="_blank"})
 
 <h3>Biophysics</h3>
 - Kane, S. A., **Wang, Y.**, Fang, R., Lu, Y., & Dakin, R. (2019). How conspicuous are peacock eyespots and other colorful feathers in the eyes of mammalian predators? [*PLOS ONE, 14*(4), e0210924](https://doi.org/10.1371/journal.pone.0210924){:target="_blank"}. [Interview](https://www.haverford.edu/college-communications/news/physics-students-publish-peacock-research){:target="_blank"}. [Discovery Canada](https://twitter.com/DiscoveryCanada/status/1281573890129444865?s=20){:target="_blank"}.
