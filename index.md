@@ -12,6 +12,6 @@ I will be updating both academic and non-academic work/things that just interest
 
 ## Updates
 
-* 8/4/21 First semester of DPT done! I have also joined the [Brain Recovery Lab](https://www.mghihp.edu/BRL) to learn and conduct exciting new research! </p>
+* 8/4/21 First semester of DPT done! I have also joined the [Brain Recovery Lab](https://www.mghihp.edu/BRL) to learn and conduct exciting new research!
 
 * 4/30/21 I finished my work at Penn and will be pursuing a DPT at MGH Institute of Health Professions in June! Now time for a lot of packing and moving... And a trip to California:)
