@@ -10,16 +10,17 @@ layout: default
 - Narratives
   - When Nietzsche Wept, Irvin Yalom
   - The Earth's Past Trilogy, Liu Cixin
-  - Crime and Punishment, Fyodor Dostoevsky 
+  - Crime and Punishment, Fyodor Dostoevsky
   - The Theban Plays, Sophocles
 - Ideas
   - The Language Hoax, John McWhorter
-  - The Language Instinct, Steven Pinker (i know, still, great book in itself.)
+  - The Language Instinct, Steven Pinker (i know, still, a great book in itself.)
   - Felt Time, Marc Wittman
   - The Neuroscience of Emotion, David Anderson and Ralph Adolphs
   - The Conscious Mind, Zoltan Torey
   - Existential Psychotherapy, Irvin Yalom
   - The Resonance of Unseen Things, Susan Lepselter
+  - The Brain from Inside Out, György Buzsáki
 
 
 
