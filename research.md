@@ -11,7 +11,7 @@ layout: default
 - **Wang, Y.**, Harvey, D.Y., Vnenchak, L., Cason, S., Sacchetti, D., Hamilton, R., Coslett, H.B. (2020) Combined rTMS and constraint induced language therapy reveals interactions between language and motor systems: A case study. Poster presentation at SNL2020.
 
 <h3>Language</h3>
-- Hartung, F.<sup>*</sup>, **Wang, Y.<sup>*</sup>**, Marloes, M., Willems, R., Chatterjee, A. (2021) Aesthetic appraisals of literary style and emotional intensity in narrative engagement are neurally dissociable. <sup>*</sup>co-first author. [*Communications Biology*](https://www.nature.com/articles/s42003-021-02926-0){:target="_blank"}. [Data Blitz](https://youtu.be/cDaP8c-LHDc){:target="_blank"} at CNS2020.
+- Hartung, F.<sup>*</sup>, **Wang, Y.<sup>*</sup>**, Mak, M., Willems, R., Chatterjee, A. (2021) Aesthetic appraisals of literary style and emotional intensity in narrative engagement are neurally dissociable. <sup>*</sup>co-first author. [*Communications Biology*](https://www.nature.com/articles/s42003-021-02926-0){:target="_blank"}. [Data Blitz](https://youtu.be/cDaP8c-LHDc){:target="_blank"} at CNS2020.
 - **Wang, Y.** (2018) Starting From the Title: Translating a Captured Ruler and His Captivating Ci. [DoubleSpeak](https://www.doublespeakmagazine.org/2017-2018){:target="_blank"}.
 - A Semantic Exploration of *Molaolao ge* in Hangzhou Dialect (Term paper). [View](https://docs.google.com/document/d/1nlFZkVnIBdOdUyfcqKZbcw1Bp7WRpwd0r2MoUB65Lzk/edit?usp=sharing){:target="_blank"}.
 
