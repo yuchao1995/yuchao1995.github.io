@@ -9,12 +9,14 @@ layout: default
 <h3>Books</h3>
 - Narratives
   - When Nietzsche Wept, Irvin Yalom
+  - Project Hail Mary, Andy Weir
+  - Henderson the Rain King, Saul Bellow
   - The Earth's Past Trilogy, Liu Cixin
   - Crime and Punishment, Fyodor Dostoevsky
   - The Theban Plays, Sophocles
 - Ideas
   - The Language Hoax, John McWhorter
-  - The Language Instinct, Steven Pinker (i know, still, a great book in itself.)
+  - The Language Instinct, Steven Pinker 
   - Felt Time, Marc Wittman
   - The Neuroscience of Emotion, David Anderson and Ralph Adolphs
   - The Conscious Mind, Zoltan Torey
@@ -30,7 +32,7 @@ layout: default
 - [I-spend-too-much-time-on-YouTube Playlist](https://www.youtube.com/playlist?list=LLlcu4nFtPGR8_RTAaparquA)
 - Some of my favorites:
   - J.S.Bach
-    - Chaconne in BWV 1004: [Raphaella Smits](https://youtu.be/Jcy7E4uHYK8), [Ivry Gitlis](https://youtu.be/bh8pKgwapSA)
+    - Chaconne in BWV 1004: [Raphaella Smits](https://youtu.be/Jcy7E4uHYK8), [Ivry Gitlis](https://youtu.be/bh8pKgwapSA), [Shunske Sato](https://youtu.be/pnK6R5ej6Hg)
     - Cello Suites
       - No.1: [Mischa Maisky](https://youtu.be/mGQLXRTl3Z0)
       - No.5: [Hidemi Suzuki](https://youtu.be/zEHXTrJb3HQ)
