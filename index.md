@@ -11,8 +11,11 @@ I will be updating both academic and non-academic work/things that just interest
 * * *
 
 ## Updates
+* 8/20/22 Finished my first full-time clinical on Stroke/Neurology floor at the [Spaulding Rehabilitation Hospital](https://spauldingrehab.org/locations/spaulding-rehabilitation-hospital). It was such a rich learning experience and couldn't be happier with my growth as a future therapist/clinician!
 
-* 12/16/21 My undergraduate thesis studying beauty in stories is [published](https://www.nature.com/articles/s42003-021-02926-0) on *Communications Biology*! 
+* 8/19/22 I presented a pilot study on TMS coil comparison at the [Brain & Human Body Modeling Conference](https://tmslab.martinos.org/conferences/brain-and-human-body-modeling-conference-2022/), among 57 other talks from 10 countries! Learned a ton from other researchers, and met potential collaborators:)
+
+* 12/16/21 My undergraduate thesis studying beauty in stories is published on [*Communications Biology*](https://www.nature.com/articles/s42003-021-02926-0)!
 
 * 8/4/21 First semester of DPT done:) I have also joined the [Brain Recovery Lab](https://www.mghihp.edu/BRL) to learn and conduct exciting research on dystonia!
 
