@@ -1,8 +1,7 @@
 ---
 layout: default
 ---
-
-**To become a therapist-scientist bridging the gap between clinical neurorehabilitation and engineering**
+## Bio
 
 - I'm currently a **Doctor of Physical Therapy candidate** (graduating Jan 2024) at the [MGH Institute](https://www.mghihp.edu). While here, I have been a research assistant working with Dr. Teresa Jacobson Kimberley on various TMS and fMRI projects on focal dystonia and E-field modeling.
 - Previously, I worked full-time as a **research specialist** at [Penn Medicine](https://www.med.upenn.edu/lcns/) studying aphasia recovery and TMS in stroke and Alzheimer's disease. My supervisors were Drs. H. Branch Coslett and Roy H. Hamilton.  
