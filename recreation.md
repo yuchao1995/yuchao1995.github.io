@@ -16,14 +16,13 @@ layout: default
   - The Theban Plays, Sophocles
 - Ideas
   - The Language Hoax, John McWhorter
-  - The Language Instinct, Steven Pinker 
+  - The Language Instinct, Steven Pinker
   - Felt Time, Marc Wittman
   - The Neuroscience of Emotion, David Anderson and Ralph Adolphs
   - The Conscious Mind, Zoltan Torey
   - Existential Psychotherapy, Irvin Yalom
   - The Resonance of Unseen Things, Susan Lepselter
   - The Brain from Inside Out, György Buzsáki
-
 
 
 <h3>Music</h3>  
