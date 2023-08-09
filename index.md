@@ -13,6 +13,8 @@ layout: default
 
 ## Updates
 
+* 7/22/23 My poster made it to OHBM2023! This was a DTI case study that followed up on a behavioral study I did in 2020 - wonderful to explore the brain-behavior correlations of TMS effects. 
+
 * 2/21/23 Our pilot TMS/modeling project on brain shift with position change received great feedback during the mini-symposium at [5th International Brain Stimulatiion Conference](https://www.elsevier.com/events/conferences/international-brain-stimulation-conference/about)! Unfortunately I couldn't make it to Portugal in person.
 
 * 8/20/22 Finished my first full-time clinical on Stroke/Neurology floor at the [Spaulding Rehabilitation Hospital](https://spauldingrehab.org/locations/spaulding-rehabilitation-hospital). It was such a rich learning experience and couldn't be happier with my growth as a future clinician!
