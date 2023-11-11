@@ -3,6 +3,7 @@ layout: default
 ---
 ## Bio
 
+- **Looking for PhD opportunities** for Fall 2024! Interested in motor control, causal mechanisms, pathophysiology, TMS, neuroimaging. Would love to connect!
 - I'm currently a **Doctor of Physical Therapy candidate** (graduating Jan 2024) at the [MGH Institute](https://www.mghihp.edu). While here, I have been a research assistant working with Dr. Teresa Jacobson Kimberley on various TMS and fMRI projects on focal dystonia and E-field modeling.
 - Previously, I worked full-time as a **research specialist** at [Penn Medicine](https://www.med.upenn.edu/lcns/) studying aphasia recovery and TMS in stroke and Alzheimer's disease. My supervisors were Drs. H. Branch Coslett and Roy H. Hamilton.  
 - Before that, I graduated *summa cum laude* with a **B.A. in Cognitive Science** from [Haverford College](https://www.haverford.edu/). This is also where my science journey started.
@@ -13,7 +14,7 @@ layout: default
 
 ## Updates
 
-* 7/22/23 My poster made it to OHBM2023! This was a DTI case study that followed up on a behavioral study I did in 2020 - wonderful to explore the brain-behavior correlations of TMS effects. 
+* 7/22/23 My poster made it to OHBM2023! This was a DTI case study where we found unique white matter tracts between right pars triangularis (TMS site) to motor areas that could explain unexpected TMS network effects.
 
 * 2/21/23 Our pilot TMS/modeling project on brain shift with position change received great feedback during the mini-symposium at [5th International Brain Stimulatiion Conference](https://www.elsevier.com/events/conferences/international-brain-stimulation-conference/about)! Unfortunately I couldn't make it to Portugal in person.
 
